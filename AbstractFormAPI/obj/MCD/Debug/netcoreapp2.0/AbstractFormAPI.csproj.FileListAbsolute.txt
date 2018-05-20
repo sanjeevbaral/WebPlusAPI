@@ -1,0 +1,11 @@
+C:\CDC\WebPlus\abstractformapi\bin\MCD\Debug\netcoreapp2.0\AbstractFormAPI.deps.json
+C:\CDC\WebPlus\abstractformapi\bin\MCD\Debug\netcoreapp2.0\AbstractFormAPI.runtimeconfig.json
+C:\CDC\WebPlus\abstractformapi\bin\MCD\Debug\netcoreapp2.0\AbstractFormAPI.runtimeconfig.dev.json
+C:\CDC\WebPlus\abstractformapi\bin\MCD\Debug\netcoreapp2.0\AbstractFormAPI.dll
+C:\CDC\WebPlus\abstractformapi\bin\MCD\Debug\netcoreapp2.0\AbstractFormAPI.pdb
+C:\CDC\WebPlus\abstractformapi\obj\MCD\Debug\netcoreapp2.0\AbstractFormAPI.csprojAssemblyReference.cache
+C:\CDC\WebPlus\abstractformapi\obj\MCD\Debug\netcoreapp2.0\AbstractFormAPI.csproj.CoreCompileInputs.cache
+C:\CDC\WebPlus\abstractformapi\obj\MCD\Debug\netcoreapp2.0\AbstractFormAPI.AssemblyInfoInputs.cache
+C:\CDC\WebPlus\abstractformapi\obj\MCD\Debug\netcoreapp2.0\AbstractFormAPI.AssemblyInfo.cs
+C:\CDC\WebPlus\abstractformapi\obj\MCD\Debug\netcoreapp2.0\AbstractFormAPI.dll
+C:\CDC\WebPlus\abstractformapi\obj\MCD\Debug\netcoreapp2.0\AbstractFormAPI.pdb
